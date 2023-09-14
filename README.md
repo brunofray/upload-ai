@@ -35,7 +35,7 @@
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [⚙️ Features](#-features)
-- [🧩 Modules](#modules)
+- [🧩 Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
@@ -45,6 +45,8 @@
 
 
 ## 📍 Overview
+
+![image](https://github.com/brunofray/upload-ai/assets/26939700/e92fd0c3-bee7-4b83-b05e-bd852f67c630)
 
 The project is a video transcription application that provides core functionalities such as uploading audio/video files, creating transcriptions, generating AI completions, and retrieving prompts for transcriptions. It utilizes technologies like Fastify, React, Tailwind CSS, Prisma, and the OpenAI API. The application's purpose is to provide users with a convenient and efficient way to transcribe videos and generate AI-based summaries, saving them time and effort in manually transcribing and summarizing large amounts of video content. Its value proposition lies in automating the transcription process and leveraging AI for efficient analysis and summarization of video content.
 
