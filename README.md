@@ -35,10 +35,8 @@
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [⚙️ Features](#-features)
-- [📂 Project Structure](#project-structure)
 - [🧩 Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
-- [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
@@ -65,14 +63,6 @@ The project is a video transcription application that provides core functionalit
 | **🔐 Security**        | The codebase doesn't provide explicit information about security measures implemented. Considering the inclusion of third-party libraries, handling of user-uploaded files, and interactions with OpenAI API, measures like sanitizing inputs, file validations, encryption, secure communication (HTTPS), and access control should be considered for secure operations. Limit your response to a maximum of 200 characters.    |
 | **🔀 Version Control** | The codebase relies on Git for version control, as evident from the provided GitHub repository. Git is a distributed version control system, which facilitates collaboration, code review, and team coordination. The use of branching and features branching methodologies could provide scalable development and release management strategies. Limit your response to a maximum of 200 characters.    |
 | **🔌 Integrations**    | The system interacts with external services like the OpenAI API for AI-generated summaries and the Prisma ORM for database operations.
-
----
-
-
-## 📂 Project Structure
-
-
-
 
 ---
 
